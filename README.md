@@ -1,0 +1,1 @@
+The sql file contain a <b>simple SQL query</b> using a Common Table Expression (CTE) to analysis the shift in the marketplace by comparing <b>Online sales</b> and <b>Reseller sales</b> based on revenue, profit, transaction volume, and order quantities.
